@@ -1,9 +1,9 @@
 # 👋 ¡Hola, soy Julia!
-Desarrolladora de software Junior recién titulada en **Desarrollo de Aplicaciones Multiplataforma (DAM)** el pasado junio de 2025, con interés en crear soluciones tecnológicas que sean útiles, funcionales y aporten cierto valor a las personas. Constante, comprometida y con muchas ganas de seguir creciendo profesionalmente. Persiguiendo ayudar a las personas y generar un impacto positivo en ellas.
+Desarrolladora de software Junior recién titulada en **Desarrollo de Aplicaciones Multiplataforma** el pasado junio de 2025, con interés en crear soluciones tecnológicas que sean útiles, funcionales y aporten cierto valor a las personas. Constante, comprometida y con muchas ganas de seguir creciendo profesionalmente. Persiguiendo ayudar a las personas y generar un impacto positivo en ellas.
 
 ## 🚀 ¿En qué estoy trabajando actualmente?
-Actualmente estoy involucrado en la **migración de un sistema heredado en Access** a una aplicación web moderna desarrollada con **Flet y Python** y **Sql Server** para la gestión de la base de datos en *Campiña Verde Ecosol, S.L*.  
-He trabajado especialmente en:
+Actualmente involucrada con la **migración de un sistema heredado en Access** a una aplicación web moderna desarrollada con **Flet y Python** y **Sql Server** para la gestión de la base de datos en *Campiña Verde Ecosol, S.L (Córdoba)*.  
+Trabajando especialmente en:
 - Gestión y visualización de datos en tablas personalizadas usando los controles nativos de Flet (UI basada en Flutter).
 - Control de permisos de acceso por roles de usuario
 - Optimización de la experiencia de usuario
@@ -13,7 +13,7 @@ He trabajado especialmente en:
 - Desarrollo web con Python
 - Frameworks modernos de UI
 - Integración de bases de datos
-- Arquitecturas limpias y escalables
+- Mejorando e invertigando para desarrollar arquitecturas limpias y escalables
 ---
 ## 🌐 ¿Quieres contactarme?:
 Puedes encontrarme en LinkedIn o escribirme directamente a través de GitHub o email. ¡Estoy abierto a colaboraciones, me puedes preguntar sin compromiso!
