@@ -17,7 +17,7 @@ Trabajando especialmente en:
 ---
 ## 🌐 ¿Quieres contactarme?:
 Puedes encontrarme en LinkedIn o escribirme directamente a través de GitHub o email. ¡Estoy abierto a colaboraciones, me puedes preguntar sin compromiso!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juliabujalancerodriguez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juliabujalancerodriguez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juliabujalancerodriguez@gmail.com) 
 
 # 💻 Tecnologías:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
