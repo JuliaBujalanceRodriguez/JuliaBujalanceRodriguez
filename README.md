@@ -5,21 +5,21 @@ Desarrolladora de software titulada en **Desarrollo de Aplicaciones Multiplatafo
 He finalizado recientemente mi etapa en **Campiña Verde Ecosol, S.L (Córdoba)**, donde participé en la **migración de un sistema heredado en Access** a una **aplicación** web moderna desarrollada con **Python** ; haciendo uso de **Flet** (UI basada en Flutter) para el frontend, **Django** para el backend y **Sql Server** para la gestión de la base de datos.  
 
 Durante este proyecto trabajé especialmente en:
--- Entorno Linux
-- Gestión y visualización de datos en tablas personalizadas usando los controles nativos de Flet.
-- Control de permisos de acceso por roles de usuario
-- Optimización de la experiencia de usuario
-- Y más funcionalidades adaptadas a las necesidades del proyecto y a nivel interno de la empresa.
+▸ Entorno Linux
+▸ Gestión y visualización de datos en tablas personalizadas usando los controles nativos de Flet.
+▸ Control de permisos de acceso por roles de usuario
+▸ Optimización de la experiencia de usuario
+▸ Y más funcionalidades adaptadas a las necesidades del proyecto y a nivel interno de la empresa.
 
 ### ✍🏻 Formación actual
 Actualmente cursando una **especialización en Ciberseguridad en Entornos de las Tecnologías de la Información**, complementando mi perfil como desarrolladora y ampiando mis conocimientos en seguridad, sistemas y protección de la información.
 
 ### 🕵🏻‍♀️ Intereses principales
-- Desarrollo con Python
-- Frameworks modernos de UI
-- Integración de bases de datos
-- Mejorando en el desarrollo de arquitecturas limpias y escalables
-- Ciberseguridad
+▸ Desarrollo con Python
+▸ Frameworks modernos de UI
+▸ Integración de bases de datos
+▸ Mejorando en el desarrollo de arquitecturas limpias y escalables
+▸ Ciberseguridad
 ---
 ### 🌐 ¿Quieres contactarme?:
 Puedes encontrarme en LinkedIn o escribirme directamente a través de GitHub o email. ¡Abierta a colaboraciones, me puedes preguntar sin compromiso!
