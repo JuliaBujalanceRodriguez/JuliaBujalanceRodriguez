@@ -5,7 +5,7 @@ Desarrolladora de software titulada en **Desarrollo de Aplicaciones Multiplatafo
 He finalizado recientemente mi etapa en **Campiña Verde Ecosol, S.L (Córdoba)**, donde participé en la **migración de un sistema heredado en Access** a una **aplicación** web moderna desarrollada con **Python** ; haciendo uso de **Flet** (UI basada en Flutter) para el frontend, **Django** para el backend y **Sql Server** para la gestión de la base de datos.  
 
 Durante este proyecto trabajé especialmente en:
-- Entorno Linux
+-- Entorno Linux
 - Gestión y visualización de datos en tablas personalizadas usando los controles nativos de Flet.
 - Control de permisos de acceso por roles de usuario
 - Optimización de la experiencia de usuario
@@ -14,7 +14,7 @@ Durante este proyecto trabajé especialmente en:
 ### ✍🏻 Formación actual
 Actualmente cursando una **especialización en Ciberseguridad en Entornos de las Tecnologías de la Información**, complementando mi perfil como desarrolladora y ampiando mis conocimientos en seguridad, sistemas y protección de la información.
 
-### 🧠 Intereses principales
+### 🕵🏻‍♀️ Intereses principales
 - Desarrollo con Python
 - Frameworks modernos de UI
 - Integración de bases de datos
@@ -32,7 +32,7 @@ Puedes encontrarme en LinkedIn o escribirme directamente a través de GitHub o e
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-## 📊 GitHub Stats:
+## 📈 GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=JuliaBujalanceRodriguez&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JuliaBujalanceRodriguez&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaBujalanceRodriguez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
