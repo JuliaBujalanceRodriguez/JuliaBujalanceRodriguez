@@ -1,7 +1,7 @@
-## ¡Hola, soy Julia!
+#### 👩🏻‍💻 ¡Hola, soy Julia!
 Desarrolladora de software titulada en **Desarrollo de Aplicaciones Multiplataforma** el pasado 2025, con especial interés en crear soluciones tecnológicas que sean útiles, funcionales y aporten cierto valor a las personas. Constante, comprometida y con muchas ganas de seguir creciendo profesionalmente. Persiguiendo ayudar a las personas y generar un impacto positivo en ellas.
 
-### 💼 ¿En qué estoy trabajando actualmente?
+### 👩🏻‍💼 ¿En qué he trabajando?
 He finalizado recientemente mi etapa en **Campiña Verde Ecosol, S.L (Córdoba)**, donde participé en la **migración de un sistema heredado en Access** a una **aplicación** web moderna desarrollada con **Python** ; haciendo uso de **Flet** (UI basada en Flutter) para el frontend, **Django** para el backend y **Sql Server** para la gestión de la base de datos.  
 
 Durante este proyecto trabajé especialmente en:
@@ -11,7 +11,7 @@ Durante este proyecto trabajé especialmente en:
 - Optimización de la experiencia de usuario
 - Y más funcionalidades adaptadas a las necesidades del proyecto y a nivel interno de la empresa.
 
-### 📚 Formación actual
+### ✍🏻 Formación actual
 Actualmente cursando una **especialización en Ciberseguridad en Entornos de las Tecnologías de la Información**, complementando mi perfil como desarrolladora y ampiando mis conocimientos en seguridad, sistemas y protección de la información.
 
 ### 🧠 Intereses principales
@@ -25,7 +25,7 @@ Actualmente cursando una **especialización en Ciberseguridad en Entornos de las
 Puedes encontrarme en LinkedIn o escribirme directamente a través de GitHub o email. ¡Abierta a colaboraciones, me puedes preguntar sin compromiso!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juliabujalancerodriguez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juliabujalancerodriguez@gmail.com) 
 
-## 💻 Tecnologías:
+## 🖥️ Tecnologías:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
