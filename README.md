@@ -1,4 +1,4 @@
-#### 👩🏻‍💻 ¡Hola, soy Julia!
+## 👩🏻‍💻 ¡Hola, soy Julia!
 Desarrolladora de software titulada en **Desarrollo de Aplicaciones Multiplataforma** el pasado 2025, con especial interés en crear soluciones tecnológicas que sean útiles, funcionales y aporten cierto valor a las personas. Constante, comprometida y con muchas ganas de seguir creciendo profesionalmente. Persiguiendo ayudar a las personas y generar un impacto positivo en ellas.
 
 ### 👩🏻‍💼 ¿En qué he trabajando?
