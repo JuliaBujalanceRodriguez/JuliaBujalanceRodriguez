@@ -1,22 +1,28 @@
-## 👋 ¡Hola, soy Julia!
-Desarrolladora de software recién titulada en **Desarrollo de Aplicaciones Multiplataforma** el pasado junio de 2025, con especial interés en crear soluciones tecnológicas que sean útiles, funcionales y aporten cierto valor a las personas. Constante, comprometida y con muchas ganas de seguir creciendo profesionalmente. Persiguiendo ayudar a las personas y generar un impacto positivo en ellas.
+## ¡Hola, soy Julia!
+Desarrolladora de software titulada en **Desarrollo de Aplicaciones Multiplataforma** el pasado 2025, con especial interés en crear soluciones tecnológicas que sean útiles, funcionales y aporten cierto valor a las personas. Constante, comprometida y con muchas ganas de seguir creciendo profesionalmente. Persiguiendo ayudar a las personas y generar un impacto positivo en ellas.
 
-### 🚀 ¿En qué estoy trabajando actualmente?
-Actualmente involucrada con la **migración de un sistema heredado en Access** a una aplicación web moderna desarrollada con **Flet y Python** y **Sql Server** para la gestión de la base de datos en *Campiña Verde Ecosol, S.L (Córdoba)*.  
-Trabajando especialmente en:
-- Gestión y visualización de datos en tablas personalizadas usando los controles nativos de Flet (UI basada en Flutter).
+### 💼 ¿En qué estoy trabajando actualmente?
+He finalizado recientemente mi etapa en **Campiña Verde Ecosol, S.L (Córdoba)**, donde participé en la **migración de un sistema heredado en Access** a una **aplicación** web moderna desarrollada con **Python** ; haciendo uso de **Flet** (UI basada en Flutter) para el frontend, **Django** para el backend y **Sql Server** para la gestión de la base de datos.  
+
+Durante este proyecto trabajé especialmente en:
+- Entorno Linux
+- Gestión y visualización de datos en tablas personalizadas usando los controles nativos de Flet.
 - Control de permisos de acceso por roles de usuario
 - Optimización de la experiencia de usuario
 - Y más funcionalidades adaptadas a las necesidades del proyecto y a nivel interno de la empresa.
 
+### 📚 Formación actual
+Actualmente cursando una **especialización en Ciberseguridad en Entornos de las Tecnologías de la Información**, complementando mi perfil como desarrolladora y ampiando mis conocimientos en seguridad, sistemas y protección de la información.
+
 ### 🧠 Intereses principales
-- Desarrollo web con Python
+- Desarrollo con Python
 - Frameworks modernos de UI
 - Integración de bases de datos
-- Mejorando e invertigando para desarrollar arquitecturas limpias y escalables
+- Mejorando en el desarrollo de arquitecturas limpias y escalables
+- Ciberseguridad
 ---
 ### 🌐 ¿Quieres contactarme?:
-Puedes encontrarme en LinkedIn o escribirme directamente a través de GitHub o email. ¡Estoy abierto a colaboraciones, me puedes preguntar sin compromiso!
+Puedes encontrarme en LinkedIn o escribirme directamente a través de GitHub o email. ¡Abierta a colaboraciones, me puedes preguntar sin compromiso!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juliabujalancerodriguez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juliabujalancerodriguez@gmail.com) 
 
 ## 💻 Tecnologías:
